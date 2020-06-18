@@ -1,15 +1,14 @@
 {
     "name": "tg-ubot",
-    "description": "telegram pluggable userbot",
+    "description": "telegram userbot",
     "logo": "https://telegra.ph/file/5e7742ce590ff06d35564.jpg",
     "keywords": [
         "tg-ubot",
         "telegram",
-        "pluggable",
         "userbot"
     ],
-    "repository": "https://github.com/nangis-project/tg-ubot",
-    "website": "https://github.com/nangis-project",
+    "repository": "https://github.com/afdulfauzan/tg-ubot",
+    "website": "https://github.com/afdulfauzan",
     "success_url": "https://t.me/tg_ubot",
     "env": {
         "API_ID": {
