@@ -13,8 +13,8 @@ __version__ = "{}.{}.{}".format(__version_major__,
                                 if __version_beta__ else __version_micro__)
 
 __license__ = ("[GNU General Public License v3.0]"
-               "(https://github.com/nangis-project/tg-ubot/blob/master/LICENSE)")
+               "(https://github.com/afdulfauzan/tg-ubot/blob/master/LICENSE)")
 
-__copyright__ = "Copyright (C) 2020 by [NangisProject@Github](https://github.com/nangis-project)"
+__copyright__ = "Copyright (C) 2020 by [NangisProject@Github](https://github.com/afdulfauzan)"
 
 __python_version__ = "{}.{}.{}".format(version_info[0], version_info[1], version_info[2])
