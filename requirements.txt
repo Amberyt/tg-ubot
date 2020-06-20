@@ -3,6 +3,7 @@ aiofiles
 aiohttp
 bs4
 cowpy
+deezloader
 dnspython
 emoji
 gitpython
